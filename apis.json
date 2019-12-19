@@ -1,0 +1,52 @@
+{
+    "name": "Service Stack",
+    "description": "Thoughtfully architected, obscenely fast, \r  thoroughly enjoyable web services for all",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11520-service-stack.jpg",
+    "tags": [
+        "cloud",
+        "deployment",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/service-stack\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Service Stack",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11520-service-stack.jpg",
+            "humanURL": "https:\/\/servicestack.net",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "team@servicestack.net"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/ServiceStack"
+        },
+        {
+            "type": "Google Plus",
+            "url": "https:\/\/plus.google.com\/u\/0\/communities\/112445368900682590445"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/servicestack.net\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ServiceStack"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/servicestack.net"
+        }
+    ]
+}
